@@ -1,5 +1,4 @@
-# Team Name: [Insert Team Name]
-# Student Numbers: [List All Group Student Numbers]
+# Team Name: The Equals Sequals
 # File Name: db_config.py
 
 import os
