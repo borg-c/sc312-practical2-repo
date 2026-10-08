@@ -1,5 +1,4 @@
-# Team Name: The Equals SQLs
-# Student Numbers: 4351723,...
+# Team Name: The Equal SQLs
 # File Name: main.py
 
 from db_config import get_db_connection
